@@ -14,11 +14,10 @@
   "keywords": [
     "AOP",
     "COP",
-    "contracts",
-    "aspect",
-    "orineted",
-    "programming",
-    "contracts"
+    "Contract Oriented Programming",
+    "Aspect Oriented Programming",
+    "Clean code",
+    "Reliable dependency on 3rd party packages"
   ],
   "repository": {
     "type": "git",
@@ -27,6 +26,7 @@
   "author": "Kobi Sasson",
   "license": "MIT",
   "devDependencies": {
+    "assert": "^1.3.0",
     "chai": "^1.10.0",
     "del": "^1.1.1",
     "gulp": "^3.8.10",
@@ -43,7 +43,7 @@
     "gulp-task-listing": "^1.0.1",
     "gulp-util": "^3.0.1",
     "jshint-stylish": "^1.0.0",
-    "mocha": "^2.1.0",
+    "mocha": "^2.4.5",
     "mocha-clean": "^0.4.0",
     "yargs": "^1.3.3"
   },

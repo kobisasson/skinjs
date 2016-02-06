@@ -5,7 +5,9 @@ Summary
 ------------
 Light weight aspect oriented library which enable validating functions based on contracts.
 the library also enables to define pre and post activities before function.
-or use your a predefined skin ( or more then one) which will be activated before and after the function body.
+or use your a predefined skin ( or more than one) which will be activated before and after the function body.
+By proactively providing contract based API for your public API, you enable a reliable dependency to and from your 
+packages.
 
 Installation
 ------------
