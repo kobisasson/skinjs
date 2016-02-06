@@ -1,6 +1,6 @@
 {
   "name": "skinjs",
-  "version": "0.0.1-0",
+  "version": "0.0.1-1",
   "description": "skinjs is an AOP and COP (Contract Oriented Programming ) library which enables to create a more error prone and clean code",
   "main": "index.js",
   "scripts": {
